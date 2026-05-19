@@ -49,7 +49,7 @@ Rather than relying on a single model or modality, the system uses a **heterogen
 | 3 | **GA Ensemble Optimisation** | Jointly optimises weights [w₁,w₂,w₃] and threshold θ* |
 | 4 | **EDS Biomarker** | Ellipsoidal Deviation Score corrects borderline predictions without additional model parameters |
 | 5 | **Grad-CAM Explainability** | Heatmaps on DAT scan highlighting clinically relevant regions |
-| 6 | **Flask Deployment** | End-to-end web app from raw scan upload to diagnostic output |
+| 6 | **Flask WebApp** | End-to-end web app from raw scan upload to diagnostic output |
 
 ---
 
