@@ -351,6 +351,4 @@ If you use this work or the NTUA Parkinson Dataset, please cite:
 
 ---
 
-<div align="center">
-  <sub>BTech CSE Project · IIIT Senapati, Manipur · 2026</sub>
-</div>
+
