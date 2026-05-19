@@ -88,7 +88,7 @@ PDS/
 
 ## Dataset
 
-This project uses the **[NTUA Parkinson Dataset]([https://doi.org/10.1142/S0218213018500112](https://github.com/ails-lab/ntua-parkinson-dataset))** — a publicly available neuroimaging benchmark from the National Technical University of Athens.
+This project uses the **[NTUA Parkinson Dataset]([https://github.com/ails-lab/ntua-parkinson-dataset])** — a publicly available neuroimaging benchmark from the National Technical University of Athens.
 
 | Property | Value |
 |---|---|
